@@ -1,4 +1,4 @@
-# Chess-Tournament
+# Chess-Tournament Database Project
 Description of the Project: This is the Chess Database Project that I created in my Database foundations class. 
 
 **ZUMA International Chess Organization**
